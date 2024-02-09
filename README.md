@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="logo" width="100%" height="400">
+</p>
 <h1 align="center">Hi 👋, I'm Raghu Kuruba Pujari</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
