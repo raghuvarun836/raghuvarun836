@@ -24,9 +24,9 @@
 </p>
 
 - 🌱 I’m currently learning **Spring Boot, ReactJs**
-- 👨‍💻 All of my projects are available at [https://github.com/raghuvarun836?tab=repositories](https://github.com/raghuvarun836?tab=repositories)
 - 💬 Ask me about **Java, Spring Boot**
-- 📫 How to reach me **raghuvarun836@gmail.com** - ⚡ Fun fact **I sometimes think that I have drunk more tea🍵 than water in my entire life.**
+- 📫 How to reach me **raghuvarun836@gmail.com**
+- ⚡ Fun fact **I sometimes think that I have drunk more tea🍵 than water in my entire life.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
