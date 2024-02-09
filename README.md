@@ -24,7 +24,7 @@
 </p>
 
 - 🌱 I’m currently learning **Spring Boot, ReactJs**
-- 💬 Ask me about **Java, Spring Boot**
+- 💬 Ask me about **Java, C/C++, Spring Boot, Data Structures and Algorithms**
 - 📫 How to reach me **raghuvarun836@gmail.com**
 - ⚡ Fun fact **I sometimes think that I have drunk more tea🍵 than water in my entire life.**
 
